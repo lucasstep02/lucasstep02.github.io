@@ -19,3 +19,8 @@ My errors ranged from frozen VS Code applications, blank screens and non-descrip
 - If you have a WSL setup already, you will not be able to use the default *Ubuntu* version, follow the instructions and use the command 'wsl --install --distribution Ubuntu-22.04' for an Ubuntu 22.04 setup. The Ubuntu default may work on initial setup, it may even say its the 22.04 LTS version but it **will not** work for dev containers, I tried.
 
 - If your setup dev container cannot find pip and asks you to install, CHANGE YOUR KERNEL TO RECOMMENDED. The installs should all be there, especially if you are following the '00-bird-example'.
+
+- To run the graphics driver, CUDA will ask for Visual Studio, this is **NOT** Visual Studio Code. You need the pink logo, otherwise CUDA will not download and complain at you constantly.
+
+![](/../images/vs_vs_vsc.png "THE PINK ONE!!!")
+Image [credit](https://www.tabnine.com/blog/visual-studio-vs-visual-studio-code/).
