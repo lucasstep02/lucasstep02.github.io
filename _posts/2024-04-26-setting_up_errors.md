@@ -1,4 +1,4 @@
-# My first post! Setting up Dev Containers was... fun
+# My first post! Setting up Dev Containers was fun
 
 This is a tale of my failures and mistakes when following the *How to* guide by Brian Lovell that you can find [here](https://lovellbrian.github.io/2023/10/02/BYODImage.html). This rundown will work, just don't be like me and make assumptions, follow his directions!
 
