@@ -24,3 +24,8 @@ My errors ranged from frozen VS Code applications, blank screens and non-descrip
 
 ![](/../images/vs_vs_vsc.png "THE PINK ONE!!!")
 Image [credit](https://www.tabnine.com/blog/visual-studio-vs-visual-studio-code/).
+
+---
+
+## Conclusion
+Just don't be like me, be smart, follow the instructions and you will be fine (hopefully). You can do it!
