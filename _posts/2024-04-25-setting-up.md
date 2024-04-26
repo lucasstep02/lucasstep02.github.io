@@ -16,7 +16,7 @@ My errors ranged from frozen VS Code applications, blank screens and non-descrip
 
 - **DO NOT**, I repeat **DO NOT** try to install a WSL version of Docker CE, this will not work and will cause issues even after uninstalling all docker content from your device. I still cannot use my laptop for Docker now unless I use my Linux boot, I have broken my Windows Docker Desktop.
 
-- If you have a WSL setup already, you will not be able to use the default *Ubuntu* version, follow the instructions and use the command 'wsl --install --distribution Ubuntu-22.04' for an Ubuntu 22.04 setup. The Ubuntu default may work on initial setup, it may even say its the 22.04 LTS version but it **will not** work for dev containers, I tried.
+- If you have a WSL setup already, you will not be able to use the default *Ubuntu* version, follow the instructions and use the command `wsl --install --distribution Ubuntu-22.04` for an Ubuntu 22.04 setup. The Ubuntu default may work on initial setup, it may even say its the 22.04 LTS version but it **will not** work for dev containers, I tried.
 
 - If your setup dev container cannot find pip and asks you to install, CHANGE YOUR KERNEL TO RECOMMENDED. The installs should all be there, especially if you are following the '00-bird-example'.
 
